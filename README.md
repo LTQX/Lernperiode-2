@@ -13,7 +13,7 @@ Ich möchte die Modulen von der Informatik so schnell wie möglich abschliessen,
 Beim Modul 431 das OBA abfangen und abschliessen und wenn noch Zeit übrig bleibt, beim Portfolio von 319 anfangen und HZ1 abschliessen.
 
 
-- [x] OBA 431 anfangen
-- [x] OBA 431 abscliessen
-- [x] E-Portfolio 319 anfangen
-- [x] E-Portfolio 319 HZ1 abschliessen
+- [ ] OBA 431 anfangen
+- [ ] OBA 431 abscliessen
+- [ ] E-Portfolio 319 anfangen
+- [ ] E-Portfolio 319 HZ1 abschliessen
