@@ -25,7 +25,19 @@ Heute habe erfolgreich das OBA von 431 abgeschlossen, ich hatte ein bisschen pro
 
 Beim Modul 319 das E-Portfolio abschliessen und wenn möglich auch ein neues Programmierprojekt starten. Ich möchte wenn möglich ein Taschenrechner machen, aber ich denke das es eher knapp wird, weil das Portfolio von 319 ein grosses Projekt ist. (38 Wörter)
 
-- [ ] Portfolio 319 HZ 1-3 abschliessen
-- [ ] Portfolio 319 HZ 3-6 abschliessen
+- [x] Portfolio 319 HZ 1-3 abschliessen
+- [x] Portfolio 319 HZ 3-6 abschliessen
 - [ ] Taschenrechner Projekt anfangen
 - [ ] Taschenrechner Projekt abschliessen
+
+Heute habe ich HZ 1-6 erfolgreich abgeschlossen. Mit dem Taschenrechner Projekt konnte ich allerdings nicht anfangen. Nächste Woche möchte ich mit dem Taschenrechner Projekt anfangen.
+(25 Wörter)
+
+## Arbeitspakete für 03.11.2023
+
+Ich werde mit einem Taschenrechner Projekt starten, der Taschenrechner wird mit Forms programmiert. Es wird ein anspruchvolles Projekt für mich sein, aber ich werde es mithilfe von Youtube es schon irgendwie überwältigen. Wenn ich mit dem Taschenrechner Projekt fertig werde, starte ich ein Snake Projekt.
+
+- [ ] Taschenrechner Projekt starten
+- [ ] Taschenrechner Projekt beenden
+- [ ] Snake Projekt starten
+- [ ] Snake Projekt beenden
