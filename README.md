@@ -35,7 +35,7 @@ Heute habe ich HZ 1-6 erfolgreich abgeschlossen. Mit dem Taschenrechner Projekt 
 
 ## Arbeitspakete für 03.11.2023
 
-Ich werde mit einem Taschenrechner Projekt starten, der Taschenrechner wird mit Forms programmiert. Es wird ein anspruchvolles Projekt für mich sein, aber ich werde es mithilfe von Youtube es schon irgendwie überwältigen. Wenn ich mit dem Taschenrechner Projekt fertig werde, starte ich ein Snake Projekt.
+Ich werde mit einem Taschenrechner Projekt starten, der Taschenrechner wird mit Forms programmiert. Es wird ein anspruchvolles Projekt für mich sein, aber ich werde es mithilfe von Youtube es schon irgendwie überwältigen. Wenn ich mit dem Taschenrechner Projekt fertig werde, starte ich ein Snake Projekt. (45 Wörter)
 
 - [ ] Taschenrechner Projekt starten
 - [ ] Taschenrechner Projekt beenden
