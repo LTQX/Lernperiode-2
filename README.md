@@ -37,7 +37,18 @@ Heute habe ich HZ 1-6 erfolgreich abgeschlossen. Mit dem Taschenrechner Projekt 
 
 Ich werde mit einem Taschenrechner Projekt starten, der Taschenrechner wird mit Forms programmiert. Es wird ein anspruchvolles Projekt für mich sein, aber ich werde es mithilfe von Youtube es schon irgendwie überwältigen. Wenn ich mit dem Taschenrechner Projekt fertig werde, starte ich ein Snake Projekt. (45 Wörter)
 
-- [ ] Taschenrechner Projekt starten
-- [ ] Taschenrechner Projekt beenden
+- [x] Taschenrechner Projekt starten
+- [x] Taschenrechner Projekt beenden
 - [ ] Snake Projekt starten
+- [ ] Snake Projekt beenden
+
+Ich habe mit dem Taschenprojekt erfolgreich begonnen und es auch erfolgreich abgeschlossen. Ich finde man kann es viel besser und schöner machen, aber es wird aber wieder viel Zeit und Aufwand brauchen. Meine Projektgruppe hat mit dem Projekt weitergemacht, was ich ein bisschen schade finde, weil ich nicht dabei war, sonst war es ein erfolgreicher Tag. (56 Wörter)
+
+## Arbeitspakete für 10.11.2023
+
+Ich werde mit der Gruppe gemeinsam, am Informatikprojekt fortfahren. Es wird nicht so einfach sein, weil wir einen Hypotekenrechner erstellen müssen. Wenn wir fertig werden, was wir hoffen, werde ich das Snake projekt starten. Es wird anspruchsvoll, aber mithilfe von Youtube, werde ich es schon schaffen. (46 Wörter)
+
+- [ ] Informatikprojekt
+- [ ] Informatikprojekt beenden
+- [ ] Snake Projekt anfangen
 - [ ] Snake Projekt beenden
