@@ -48,7 +48,17 @@ Ich habe mit dem Taschenprojekt erfolgreich begonnen und es auch erfolgreich abg
 
 Ich werde mit der Gruppe gemeinsam, am Informatikprojekt fortfahren. Es wird nicht so einfach sein, weil wir einen Hypotekenrechner erstellen müssen. Wenn wir fertig werden, was wir hoffen, werde ich das Snake projekt starten. Es wird anspruchsvoll, aber mithilfe von Youtube, werde ich es schon schaffen. (46 Wörter)
 
-- [ ] Informatikprojekt
+- [x] Informatikprojekt
 - [ ] Informatikprojekt beenden
 - [ ] Snake Projekt anfangen
 - [ ] Snake Projekt beenden
+
+Heute haben wir mit der Gruppe (Alan, Amar und ich) am Informatikprojekt weitergearbeitet. Ich habe heute eigentlich nur zugeschaut und die Fragen der Kollegen beantwortet. Wir wurden mit dem Projekt nicht fertig, das haben wir auch erwartet, weil es ein sehr umfachreiches Projekt ist. Wir werden warscheinlich nächste Woche fertig werden, wenn wir alle vollständig sind. Ich finde ich habe gut mitgemacht, aber ich werde nächste Woche besser mitmachen. (69 Wörter)
+
+## Arbeitspakete für 17.11.2023
+
+Ich werde an dem Programmierprojekt mit der Gruppe weiterarbeiten und wenn es dann möglich ist, es auch abschliessen. Ich werde mehr mit der Gruppe arbeiten und auch konzentrierter. Wenn wir es noch erflogreich beenden würden, würde ich auch ein Snake - Programmierprojekt starten, aber nur wenn ich noch Zeit habe. (49 Wörter)
+
+- [ ] Informatikprojekt weiterarbeiten
+- [ ] Informatikprojekt beenden
+- [ ] Snake - Programmierprojekt starten
