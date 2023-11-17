@@ -59,6 +59,18 @@ Heute haben wir mit der Gruppe (Alan, Amar und ich) am Informatikprojekt weiterg
 
 Ich werde an dem Programmierprojekt mit der Gruppe weiterarbeiten und wenn es dann möglich ist, es auch abschliessen. Ich werde mehr mit der Gruppe arbeiten und auch konzentrierter. Wenn wir es noch erflogreich beenden würden, würde ich auch ein Snake - Programmierprojekt starten, aber nur wenn ich noch Zeit habe. (49 Wörter)
 
-- [ ] Informatikprojekt weiterarbeiten
+- [x] Informatikprojekt weiterarbeiten
 - [ ] Informatikprojekt beenden
 - [ ] Snake - Programmierprojekt starten
+
+Ich habe mit der Gruppe gemeinsam am Code weitergearbeitet. Fertig wurden wir allerdings nicht, da es ein sehr grosses Projekt ist. Wir werden nächste Woche am Projekt weiterarbeiten, ob wir fertig werden, wissen wir allerdings nicht. Heute habe ich relativ gut gearbeitet, ich kann aber besser, finde ich. (48 Wörter)
+
+
+## Arbeitspakete für 24.11.2023
+
+Ich werde am Programmierprojekt arbeiten und den gleichen Arbeitspaket haben, wie das Paket auf heute. Ich werde am Programmierprojekt mit der Gruppe weiterarbeiten und wenn wird fertig werden, ein Snake - Programmierprojekt starten und das auch erfolgreich abschliessen. (38 Wörter)
+
+-  [ ] Informatikprojekt weiterarbeiten
+-  [ ] Informatikprojekt beenden
+-  [ ] Snake - Programmierprojekt starten
+-  [ ] Snake - Programmierprojekt beenden
