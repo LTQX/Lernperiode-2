@@ -70,7 +70,17 @@ Ich habe mit der Gruppe gemeinsam am Code weitergearbeitet. Fertig wurden wir al
 
 Ich werde am Programmierprojekt arbeiten und den gleichen Arbeitspaket haben, wie das Paket auf heute. Ich werde am Programmierprojekt mit der Gruppe weiterarbeiten und wenn wird fertig werden, ein Snake - Programmierprojekt starten und das auch erfolgreich abschliessen. (38 Wörter)
 
--  [ ] Informatikprojekt weiterarbeiten
+-  [x] Informatikprojekt weiterarbeiten
 -  [ ] Informatikprojekt beenden
 -  [ ] Snake - Programmierprojekt starten
 -  [ ] Snake - Programmierprojekt beenden
+
+Ich habe heute mit der Gruppe am Informatikprojekt weitergearbeitet. Ich habe heute die Armotisation, die Formel, ausgerechnet und aufgeschrieben und es meiner Gruppe zur verfügung freigegeben. Ich habe heute gut gearbeitet, wir wurden allerdings nicht fertig, wir habe aber noch eine Woche Zeit. Wir werden nächste Wochen mit den Berechnungen anfangen und diese hoffentlich abschliessen. Heute war ein guter Tag und ich finde, dass ich gut und konzentriert gearbeitet habe. (70 Wörter)
+
+## Arbeitspakete für 01.12.2023
+
+Ich werde an dem Programmierprojekt zusammen mit der Gruppe arbeiten, ich werde höchstwarscheinlich an den Amortisationen arbeiten, da ich die Formel berechnet habe und sie jetzt in Code umsetzen muss. Wenn wir fertig werden, werde ich mit dem lang gewarteten Snake - Programmierprojekt anfangen und so viel wie möglich arbeiten. Abschliessen werde ich es nicht, aber ich werde es versuchen. (60 Wörter)
+
+- [ ] Informatikprojekt (Amortisationen) anfangen
+- [ ] Informatikprojekt komplett abschliessen
+- [ ] Snake - Programmierprojekt anfangen
